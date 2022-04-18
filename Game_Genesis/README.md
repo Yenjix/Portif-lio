@@ -9,7 +9,7 @@ Desenvolvido utilizando HTML, CSS e Javascript.
 Baixar todos os arquivos, deixa-los na mesma pasta e executar o index.html. Caso solicite um programa para abrir, escolha um browser de sua preferência.
 
 
-## GIF do Jogo
+## Imagem do Jogo
 <p>
    <img align="center" src="https://github.com/Yenjix/Portifolio/blob/main/Game_Genesis/c%C3%ADrculo.jpg" width="500" height="500"/>
 </p>
