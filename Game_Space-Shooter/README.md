@@ -1,5 +1,5 @@
 # Jogo Space Shooter
-Jogo 02 de 05 - Código desenvolvido como desafio para o bootcamp: Órbi Web Games Developer - 08/04/2022
+Jogo 02 de 05 - Código desenvolvido como desafio para o bootcamp: Órbi Web Games Developer - 18/04/2022
 
 ## Descrição do Desafio
 Foi desenvolvido o jogo Space Shooter, a nave se movimenta apenas na vertical e tem como objetivo destruir as naves inimigas.
