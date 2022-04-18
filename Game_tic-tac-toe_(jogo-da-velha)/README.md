@@ -5,7 +5,7 @@ Jogo 01 de 05 - Código desenvolvido como desafio para o bootcamp: Órbi Web Gam
 Foi desenvolvido o jogo da velha (tic-tac-toe) utilizando HTML, CSS e Javascript.
 
 ## Como rodar o desafio
-Baixar os três arquivos (index.html, tic-tac-toe.js e style.css), coloca-los na mesma parta e executar o index.html. Caso solicite um programa para abrir, escolha um browser de sua preferência.
+Baixar os três arquivos (index.html, tic-tac-toe.js e style.css), coloca-los na mesma pasta e executar o index.html. Caso solicite um programa para abrir, escolha um browser de sua preferência.
 
 
 ## GIF do Jogo
