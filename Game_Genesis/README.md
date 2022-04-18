@@ -6,7 +6,7 @@ Foi desenvolvido o jogo Genesis, é um jogo de memória, um círculo com quatro 
 Desenvolvido utilizando HTML, CSS e Javascript.
 
 ## Como rodar o desafio
-Baixar todos os arquivos e deixa-los na mesma pasta e executar o index.html. Caso solicite um programa para abrir, escolha um browser de sua preferência.
+Baixar todos os arquivos, deixa-los na mesma pasta e executar o index.html. Caso solicite um programa para abrir, escolha um browser de sua preferência.
 
 
 ## GIF do Jogo
